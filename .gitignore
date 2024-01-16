@@ -62,7 +62,7 @@ src/qt/bitcoin-qt.includes
 .*.swp
 *~
 *.bak
-*.rej
+
 *.orig
 *.pyc
 *.o
